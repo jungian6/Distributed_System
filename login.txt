@@ -1,0 +1,4 @@
+Sam: A
+Max: W
+David: S
+Peter: S
